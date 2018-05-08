@@ -117,7 +117,8 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/.local/lib
 . ~/.bash_profile
 ```
 
-## Download dataset
+## Download the dataset
+#### NOTE: Dataset has been included as LFS links in the project. Please follow the steps below only if there is some problem with accessing the dataset
 ```
 mkdir ~/video-description-cnn-rnn/arctic-capgen-vid/dataset
 cd ~/video-description-cnn-rnn/arctic-capgen-vid/dataset
