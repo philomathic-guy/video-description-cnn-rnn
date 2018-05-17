@@ -187,3 +187,4 @@ This will generate 4 files "BLEU.png", "CIDer.png", "METEOR.png", "ROUGE.png"
 # Acknowledgements
 - We thank the arctic-capgen-vid team for their licensed project, which we could extend for exploration purposes
 - We thank our instructors Dr. Raju Vatsavai and Bharathkumar Ramachandra for their support throughout the project
+=======
